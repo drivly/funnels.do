@@ -4,17 +4,17 @@ import { json, withParams } from 'itty-router-extras'
 const router = Router()
 
 const api = {
-  icon: '🚀',
-  name: 'apis.do',
-  description: 'Cloudflare API',
-  url: 'https://apis.do/api',
+  icon: '▽',
+  name: 'funnels.do',
+  description: 'SaaS Funnel API',
+  url: 'https://funnels.do/api',
   typeOf: 'https://apis.do/integrations',
   endpoints: {
     primitives: 'https://apis.do/primitives',
     pipes: 'https://apis.do/pipes',
     integrations: 'https://apis.do/integrations',
   },
-  site: 'https://apis.do',
+  site: 'https://funnels.do',
   repo: 'https://github.com/drivly/api.cf',
 }
 
