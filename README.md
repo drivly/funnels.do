@@ -1,5 +1,5 @@
 # funnels.do
-Track &amp; Optimize SaaS Funnels
+Track & Optimize SaaS Funnels
 
 - Persona Discovers (# Visitors): How interesting is the idea?
 - Visitor Registers (% Visitors -> Users): How compelling is the offer?
